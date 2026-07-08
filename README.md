@@ -5,6 +5,8 @@
 - ESP32-C3 BLE 控制链路：BLE 外设、命令接收、状态通知、UART 转发。
 - ESP32-C3 Xbox 手柄输入解析：扫描蓝牙控制器、解析 15 字节输入包、转换为可读控制状态。
 
+GitHub：<https://github.com/blacklemi3/esp32-c3-ble-control-demos>
+
 原始项目并不是演示工程，而是已经在本机用 PlatformIO 编译验证过的实际工程。公开版本保留技术能力和工程结构，移除了真实设备名、MAC 地址、业务协议、公司/客户信息和不确定授权的第三方头文件。
 
 ## 对应的真实项目
