@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+.idea/
+*.code-workspace
+*.bin
+*.elf
+*.map
+*.hex
+*.log
